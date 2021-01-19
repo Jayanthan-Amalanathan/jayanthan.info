@@ -8,7 +8,7 @@
 
     <div class="row">
       <div class="col-lg-5">
-        <img src="../assets\img\jayanthan-website-2.jpg" class="img-fluid" alt="">
+        <img src="../media\images\jayanthan-website-2.jpg" class="img-fluid" alt="">
       </div>
       <div class="col-lg-7 pt-4 pt-lg-0 content">
         <p>

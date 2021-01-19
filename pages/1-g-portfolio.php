@@ -21,7 +21,7 @@
     <div class="row portfolio-container">
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-t4t">
-        <img src="../assets\img\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
+        <img src="../media\images\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>App 1</h4>
           <p>App</p>
@@ -31,7 +31,7 @@
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-t4t">
-        <img src="../assets\img\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
+        <img src="../media\images\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>App 1</h4>
           <p>App</p>
@@ -41,7 +41,7 @@
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-t4t">
-        <img src="../assets\img\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
+        <img src="../media\images\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>App 1</h4>
           <p>App</p>
