@@ -13,9 +13,9 @@
       <?php echo date('Y'); ?> &copy;<strong><span></span></strong>All Rights Reserved <a href="#">jayanthan.info</a>
     </div>
     <div class="credits">
-     Co-created by <a href="https://bootstrapmade.com/">Abitharani.J</a> & <a href="https://bootstrapmade.com/">Jayanthan.A</a>
+     Co-created by <a href="#">Abitharani.J</a> & <a href="#">Jayanthan.A</a>
      <div class="credits2">
-     <a href="https://bootstrapmade.com/">Cookiesconsent</a> | <a href="https://bootstrapmade.com/">Imprint</a>
+     <a href="#">Cookiesconsent</a> | <a href="#">Imprint</a>
      </div>
     </div>
   </div>
