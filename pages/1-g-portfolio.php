@@ -20,7 +20,7 @@
 
     <div class="row portfolio-container">
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-t4t">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-t4t">
         <img src="../assets\img\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>App 1</h4>
@@ -30,7 +30,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-t4t">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-t4t">
         <img src="../assets\img\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>App 1</h4>
@@ -40,7 +40,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-t4t">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-t4t">
         <img src="../assets\img\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>App 1</h4>
@@ -50,7 +50,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-arduino">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-arduino">
         <img src="../assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>Web 3</h4>
@@ -60,7 +60,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-arduino">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-arduino">
         <img src="../assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>Web 3</h4>
@@ -70,7 +70,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-arduino">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-arduino">
         <img src="../assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>Web 3</h4>
@@ -80,7 +80,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-sjwp">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-sjwp">
         <img src="../assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>Card 2</h4>
@@ -90,7 +90,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-sjwp">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-sjwp">
         <img src="../assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>Card 2</h4>
@@ -100,7 +100,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-sjwp">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-sjwp">
         <img src="../assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>Card 2</h4>
@@ -110,7 +110,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-jmatrix">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-jmatrix">
         <img src="../assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>Card 2</h4>
@@ -120,7 +120,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-jmatrix">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-jmatrix">
         <img src="../assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>Card 2</h4>
@@ -130,7 +130,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-jmatrix">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-jmatrix">
         <img src="../assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
           <h4>Card 2</h4>
